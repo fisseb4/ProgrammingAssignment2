@@ -4,7 +4,7 @@
 ## The task is to write to write a script to perform cashing of the inverse of an matrix and 
 ## perform some 
 ## Usage: 1) Run both function
-##        2) get Result: print(cacheSolve(makeCacheMatrix(x)))
+##        2) get Result: cacheSolve(makeCacheMatrix(x))
 
 
 ## Write a short comment describing this function
